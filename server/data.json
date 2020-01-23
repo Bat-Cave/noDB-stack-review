@@ -1,141 +1,141 @@
 [
 	{
 		"id": 1,
-		"firstName": "Arlana",
-		"lastName": "Abson",
+		"first": "Arlana",
+		"last": "Abson",
 		"email": "aabson0@jigsy.com",
 		"gender": "Female"
 	},
 	{
 		"id": 2,
-		"firstName": "Angelica",
-		"lastName": "Hayles",
+		"first": "Angelica",
+		"last": "Hayles",
 		"email": "ahayles1@shop-pro.jp",
 		"gender": "Female"
 	},
 	{
 		"id": 3,
-		"firstName": "Terrie",
-		"lastName": "Espinos",
+		"first": "Terrie",
+		"last": "Espinos",
 		"email": "tespinos2@ucla.edu",
 		"gender": "Female"
 	},
 	{
 		"id": 4,
-		"firstName": "Elbertina",
-		"lastName": "Silmon",
+		"first": "Elbertina",
+		"last": "Silmon",
 		"email": "esilmon3@163.com",
 		"gender": "Female"
 	},
 	{
 		"id": 5,
-		"firstName": "Cece",
-		"lastName": "MacGhee",
+		"first": "Cece",
+		"last": "MacGhee",
 		"email": "cmacghee4@google.com.br",
 		"gender": "Male"
 	},
 	{
 		"id": 6,
-		"firstName": "Lindon",
-		"lastName": "Govinlock",
+		"first": "Lindon",
+		"last": "Govinlock",
 		"email": "lgovinlock5@shutterfly.com",
 		"gender": "Male"
 	},
 	{
 		"id": 7,
-		"firstName": "Lorianne",
-		"lastName": "Murtagh",
+		"first": "Lorianne",
+		"last": "Murtagh",
 		"email": "lmurtagh6@ox.ac.uk",
 		"gender": "Female"
 	},
 	{
 		"id": 8,
-		"firstName": "Farica",
-		"lastName": "Rhucroft",
+		"first": "Farica",
+		"last": "Rhucroft",
 		"email": "frhucroft7@npr.org",
 		"gender": "Female"
 	},
 	{
 		"id": 9,
-		"firstName": "Vivian",
-		"lastName": "Divell",
+		"first": "Vivian",
+		"last": "Divell",
 		"email": "vdivell8@state.gov",
 		"gender": "Female"
 	},
 	{
 		"id": 10,
-		"firstName": "Vinnie",
-		"lastName": "Possek",
+		"first": "Vinnie",
+		"last": "Possek",
 		"email": "vpossek9@umich.edu",
 		"gender": "Male"
 	},
 	{
 		"id": 11,
-		"firstName": "Siffre",
-		"lastName": "Pinnell",
+		"first": "Siffre",
+		"last": "Pinnell",
 		"email": "spinnella@wufoo.com",
 		"gender": "Male"
 	},
 	{
 		"id": 12,
-		"firstName": "Monika",
-		"lastName": "Skoughman",
+		"first": "Monika",
+		"last": "Skoughman",
 		"email": "mskoughmanb@freewebs.com",
 		"gender": "Female"
 	},
 	{
 		"id": 13,
-		"firstName": "Phineas",
-		"lastName": "Worsnup",
+		"first": "Phineas",
+		"last": "Worsnup",
 		"email": "pworsnupc@illinois.edu",
 		"gender": "Male"
 	},
 	{
 		"id": 14,
-		"firstName": "Alfie",
-		"lastName": "Currey",
+		"first": "Alfie",
+		"last": "Currey",
 		"email": "acurreyd@who.int",
 		"gender": "Female"
 	},
 	{
 		"id": 15,
-		"firstName": "Cyndi",
-		"lastName": "Innocent",
+		"first": "Cyndi",
+		"last": "Innocent",
 		"email": "cinnocente@istockphoto.com",
 		"gender": "Female"
 	},
 	{
 		"id": 16,
-		"firstName": "Anabal",
-		"lastName": "Risby",
+		"first": "Anabal",
+		"last": "Risby",
 		"email": "arisbyf@fc2.com",
 		"gender": "Female"
 	},
 	{
 		"id": 17,
-		"firstName": "Gerhardine",
-		"lastName": "Ferreli",
+		"first": "Gerhardine",
+		"last": "Ferreli",
 		"email": "gferrelig@live.com",
 		"gender": "Female"
 	},
 	{
 		"id": 18,
-		"firstName": "Tonnie",
-		"lastName": "Losemann",
+		"first": "Tonnie",
+		"last": "Losemann",
 		"email": "tlosemannh@usatoday.com",
 		"gender": "Male"
 	},
 	{
 		"id": 19,
-		"firstName": "Sonnie",
-		"lastName": "Wurz",
+		"first": "Sonnie",
+		"last": "Wurz",
 		"email": "swurzi@cargocollective.com",
 		"gender": "Male"
 	},
 	{
 		"id": 20,
-		"firstName": "Grant",
-		"lastName": "Goncalo",
+		"first": "Grant",
+		"last": "Goncalo",
 		"email": "ggoncaloj@buzzfeed.com",
 		"gender": "Male"
 	}
